@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Debbie</h1>
-<h3 align="center">I'm a developer who loves learning. I value empathy, kindness and continuous development.</h3>
+<h3 align="center">I'm a developer who loves learning. I value empathy, continuous development & a great slice of pizza. 🍕</h3>
 
 - 🌱 I’m currently learning **Python, JavaScript & Golang** for full-stack development.
 
