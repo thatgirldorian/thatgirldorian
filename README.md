@@ -8,7 +8,7 @@
 
 <h3>Some of the projects I've recently worked on include:</h3>
 <ul>
-  <li><a href="https://replit.com/@DeborahOtuagoma/Fantasy-Book-Name-Generator#main.py">Fantasy Book Title Generator</a></li>
+<!--   <li><a href="https://replit.com/@DeborahOtuagoma/Fantasy-Book-Name-Generator#main.py">Fantasy Book Title Generator</a></li> -->
 </ul>
 
 
