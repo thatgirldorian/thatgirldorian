@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋🏽, I'm Debbie</h1>
 <h3 align="left">I'm a developer who loves learning. I value empathy, continuous development & a great slice of pizza. 🍕</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript & Golang** for full-stack development.
+- 🌱 I’m currently learning **Python and JavaScript** for full-stack development.
 - 📝 I sometimes write articles on [https://codechunks.hashnode.dev/](https://codechunks.hashnode.dev/)
 - 📫 You can reach me via **debbie.otua@gmail.com**
 
