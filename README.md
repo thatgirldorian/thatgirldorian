@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏽, I'm Debbie</h1>
+<h1 align="left">Hi, I'm Debbie 👋🏽</h1>
 <h3 align="left">I'm a developer who loves learning. I value empathy, continuous development & great pizza. 🍕</h3>
 
 - 🌱 I’m currently learning **Python and JavaScript** for full-stack development.
