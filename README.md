@@ -4,7 +4,7 @@
 - 🌱 I’m currently using **JavaScript and React JS** for front-end development.
 - 📝 I write articles for my future self on [https://codechunks.hashnode.dev/](https://codechunks.hashnode.dev/)
 - 📫 You can reach me via **debbie.otua@gmail.com**
-- 👩🏽‍💻 I'm also usually tinkering away and storing all sorts of interesting projects at **https://debbieotua.xyz**
+- 👩🏽‍💻 I'm also usually tinkering away and storing all sorts of interesting projects.
 
 
 <!-- <h3>Some of the projects I've recently worked on include:</h3>
