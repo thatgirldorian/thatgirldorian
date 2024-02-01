@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Debbie 👋🏽</h1>
-<h3 align="left">I'm a self-taught developer who loves learning. I value empathy, continuous development & a solid plot. 📚</h3>
+<p align="left">I'm a self-taught developer who loves learning. I value empathy, continuous development & a solid plot. 📚</p>
 
 <!--
 - 🌱 I currently use **JavaScript and React JS** for front-end development.
