@@ -1,10 +1,12 @@
 <h1 align="left">Hi, I'm Debbie 👋🏽</h1>
 <h3 align="left">I'm a self-taught developer who loves learning. I value empathy, continuous development & a solid plot. 📚</h3>
 
+<!--
 - 🌱 I currently use **JavaScript and React JS** for front-end development.
 - 📝 I write articles for my future self on [https://codechunks.hashnode.dev/](https://codechunks.hashnode.dev/)
 - 📫 You can reach me via **debbie.otua@gmail.com**
 - 👩🏽‍💻 I'm also usually tinkering away and storing all sorts of interesting projects.
+ -->
 
 
 <!-- <h3>Some of the projects I've recently worked on include:</h3>
